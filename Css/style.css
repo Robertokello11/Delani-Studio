@@ -76,4 +76,13 @@
     padding: 2%;
 
 }
+#portfolio{
+    align-items: center;
+    flex-wrap: wrap;
+    display:flex ;
+    margin-left: 18%;
+    margin-right: 17%;
+
+}
+
     
