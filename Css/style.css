@@ -65,7 +65,7 @@
  padding-bottom: 10%;
 }
 .what-we-do{
-    font-family: 'Romanesco', cursive;
+    
     text-align: center;
     padding-top: 40px;
 }
@@ -75,4 +75,5 @@
 .type{
     font-family: 'Calligraffitti', cursive;
     font-weight: 660px;
+    display: none;
 }
