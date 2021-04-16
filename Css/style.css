@@ -64,5 +64,16 @@
 #wrap{
  padding-bottom: 10%;
 }
+.what-we-do{
+    padding-top: 5%;
+}
+.hide{
+    display: none;
+    font-family: 'Romanesco', cursive;
+    font-size: 24px;
+}
+.row{
+    padding: 2%;
 
+}
     
