@@ -1,3 +1,6 @@
+body{
+    background-color: white;
+}
 .landing{
     background-image: url("../img/h_img.jpg");
     background-repeat: no-repeat;
@@ -14,4 +17,9 @@
     margin-top: 13px;
     width: 75px;
     height: 70px;
+}
+#mouse-click{
+    padding-bottom: 24px;
+    margin-top: 9px;
+    padding-bottom: 32px;
 }
