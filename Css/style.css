@@ -125,3 +125,29 @@
     margin-left: 2%;
     margin-right: 2%;
 }
+.contact{
+    background-image: url("/img/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2%;
+}
+.contact h3{
+    color: white;
+    padding-top: 3%;
+}
+#b_comment{
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    padding-bottom:8%;
+    opacity: 10%;
+    color: white;
+}
+.field-shift{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
