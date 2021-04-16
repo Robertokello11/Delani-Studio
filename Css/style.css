@@ -22,4 +22,15 @@
     padding-bottom: 24px;
     margin-top: 9px;
     padding-bottom: 32px;
+}#about{
+    text-align:center ;
+}
+.text{
+    text-align: center;
+    font-family: 'Calligraffitti', cursive;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Aboutus{
+    margin-top: 35px;
 }
