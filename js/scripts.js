@@ -11,7 +11,6 @@ $(document).ready(function () {
         $("#show-product-management").toggle()
         $(".product-management").toggle()
     })
-    $("#work1").mouseover(function () {
-
-    })
+    
 });
+
