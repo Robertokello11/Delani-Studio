@@ -130,6 +130,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 2%;
+    color: white;
 }
 .contact h3{
     color: white;
@@ -169,6 +170,6 @@
   form #contact{
     background-color: rgba(0, 0, 0, 0);
   }
-  
+ 
   
   
