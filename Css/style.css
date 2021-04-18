@@ -67,7 +67,7 @@
 }
 
 .what-we-do {
-    padding-top: 14%%;
+    padding-top: 5%;
 }
 
 .hide {
@@ -122,7 +122,7 @@
     margin-right: 3%;
 }
 .contact{
-    background-image: url("/img/c_image.jpg");
+    background-image: url("../img/c_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 2%;
