@@ -55,7 +55,7 @@
 }
 
 .SERVICES {
-    background-image: url("./img/s_image.jpg");
+    background-image: url("../img/s_image.jpg");
     background-repeat: no-repeat;
     margin-top: 20px;
     background-size: cover;
@@ -67,7 +67,7 @@
 }
 
 .what-we-do {
-    padding-top: 5%;
+    padding-top: 14%%;
 }
 
 .hide {
