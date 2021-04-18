@@ -55,7 +55,7 @@
 }
 
 .SERVICES {
-    background-image: url("./img/s_image.jpg");
+    background-image: url("../img/s_image.jpg");
     background-repeat: no-repeat;
     margin-top: 20px;
     background-size: cover;
